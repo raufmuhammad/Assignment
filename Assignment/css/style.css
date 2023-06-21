@@ -1,0 +1,49 @@
+.img{
+    background-image: url("../img/titanic.jpg");
+    background-repeat: no-repeat;
+    margin-left: 30%;
+    width:43rem;
+    height: 1200px;  
+    margin-left: 28%;
+}
+
+.column {
+    float: left;
+    width: 30%;
+    padding: 50px;
+    height: 50px;
+    text-align: center;
+    padding-top: 753px;
+    color: #fff3d7;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+  }
+
+.column2 {
+    float: left;
+    width: 45%;
+    padding: 23px;
+    height: 50px;
+    text-align: center;
+    padding-top: 753px;
+    color: #fff3d7;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+  }
+
+.title{
+    font-style: arial;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    margin-top: -15%;
+    margin-left: 8%;
+    color: #d0b060;
+}
+
+.name{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -15%;
+    margin-left: -1%;
+    color: #c1712b;
+    text-align: center;
+}
